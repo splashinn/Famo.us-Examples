@@ -4,6 +4,8 @@
 // in Famo.us is to use align and origin. The align
 // and origin properties can be set in a modifier much
 // similarly to the transform property.
+// Align specifies the anchor location on the parent element.
+// Origin specifies the anchor location on the child element.
 
 var Engine = require('famous/core/Engine');
 var Surface = require('famous/core/Surface');
